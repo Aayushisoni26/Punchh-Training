@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "data1": "Lab",
+    "data2": "1476.58 miles",
+    "data3": "123 Test St.,",
+    "data4": "Austin, TX, United States, 78701",
+    "data5": ""
+  },
+  {
+    "key": 2,
+    "data1": "Kwik Stop 88",
+    "data2": "1656.24 miles",
+    "data3": "504 3rd Street,",
+    "data4": "Delhi, IA, United States, 52223",
+    "data5": "GiftCard"
+  },
+  {
+    "key": 3,
+    "data1": "Kwik Stop 82",
+    "data2": "1680.70 miles",
+    "data3": "185 Peosta Street,",
+    "data4": "Peosta, IA, United States, 52068",
+    "data5": "GiftCard"
+  },
+  {
+    "key": 4,
+    "data1": "Kwik Stop 78",
+    "data2": "1686.35 miles",
+    "data3": "4039 Pennsylvania Ave.,",
+    "data4": "Dubuque, IA, United States, 52002",
+    "data5": "GiftCard"
+  }
+]
